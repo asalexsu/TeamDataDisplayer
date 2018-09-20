@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Team Data Displayer</string>
+    <string name="team_number_label">Team number:</string>
+    <string name="team_number" />
+    <string name="team_name_label">Team Name:</string>
+    <string name="program_label">Program:</string>
+    <string name="program" />
+    <string name="team_name" />
+    <string name="robot_name_label">Robot Name:</string>
+    <string name="organization_label">Organization:</string>
+    <string name="organization" />
+    <string name="city_label">City:</string>
+    <string name="city" />
+    <string name="region_label">Region:</string>
+    <string name="region" />
+    <string name="country_label">Country:</string>
+    <string name="country" />
+    <string name="grade_label">Grade:</string>
+    <string name="grade" />
+    <string name="check_label">Check</string>
+    <string name="season_label">Season:</string>
+    <string name="detail_button">Stats</string>
+    <string name="rating_label">Rating:</string>
+    <string name="rating" />
+    <string name="rank_label" >Rank:</string>
+    <string name="rank" />
+    <string name="submit_button">Submit</string>
+    <string name="feedback_text" />
+    <string name="feedbackStar">Your rating will appear here</string>
+    <string name="feedback_button">FeedBack</string>
+</resources>
